@@ -1,5 +1,6 @@
 {
   "latest_version_code": 7,
   "min_version_code": 1,
-  "message": ""
+  "message": "",
+  "purchases_enabled": false
 }
