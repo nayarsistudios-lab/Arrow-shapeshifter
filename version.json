@@ -2,5 +2,5 @@
   "latest_version_code": 10,
   "min_version_code": 10,
   "message": "Please update to continue playing.",
-  "purchases_enabled": false
+  "purchases_enabled": true
 }
